@@ -30,7 +30,20 @@ Se divide en:
 Se refiere a la información relevante para el dominio del problema(entidades - clases)
 SISTEMA DE BANCO --> bases de datos (usuario).
 
+1. Identificar las clases o entidades
+    Blackjack
+    Jugador: Nombre, Fichas
+    Casa
+    Mano
+    Carta: Pinta, Valor, Oculta
+    Baraja
 
+2. identificar caracteristicas o atributos
+3. identificar relaciones
+4. construir el modelo v
+
+valor simple: tiene un str, int, etc
+Relación: Un atributo de una clase cuyo valor esta dado por otra clase
 
 
 
