@@ -27,23 +27,24 @@ Se divide en:
 
 ## **MODELO DEL MUNDO:**
 
-Se refiere a la información relevante para el dominio del problema(entidades - clases)
-SISTEMA DE BANCO --> bases de datos (usuario).
+    Se refiere a la información relevante para el dominio del problema(entidades - clases)
+    SISTEMA DE BANCO --> bases de datos (usuario).
 
-1. Identificar las clases o entidades
-    Blackjack
-    Jugador: Nombre, Fichas
-    Casa
-    Mano
-    Carta: Pinta, Valor, Oculta
-    Baraja
+    1. Identificar las clases o entidades
+        Blackjack
+        Jugador: Nombre, Fichas
+        Casa
+        Mano
+        Carta: Pinta, Valor, Oculta
+        Baraja
+    
+    2. identificar caracteristicas o atributos
+    3. identificar relaciones
+    4. construir el modelo v
 
-2. identificar caracteristicas o atributos
-3. identificar relaciones
-4. construir el modelo v
+**valor simple:** tiene un str, int, etc
 
-valor simple: tiene un str, int, etc
-Relación: Un atributo de una clase cuyo valor esta dado por otra clase
+**Relación:** Un atributo de una clase cuyo valor esta dado por otra clase**
 
 
 
