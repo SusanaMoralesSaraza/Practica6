@@ -21,7 +21,7 @@ resultados -----> 1. El sistema guarda el nombre del usuario, 2. El sistema carg
 # MODELO DEL MUNDO:
 
 Se refiere a la información relevante para el dominio del problema(entidades - clases)
-SISTEMA DE BANCO --> bases de datos (usuario)
+SISTEMA DE BANCO --> bases de datos (usuario).
 
 
 
